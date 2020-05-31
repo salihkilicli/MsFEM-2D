@@ -2,8 +2,8 @@
 (Generalized) Multiscale Finite Element Method Code in 2D
 for the problem:  
 
-                    $$ -div(k(x)u) = f \text{in} \Omega $$
+                    \[ -div(k(x)u) = f \text{in} \Omega \]
                     
-                    $$         u  = g \text{on} \partial\Omega $$
+                    \[         u  = g \text{on} \partial\Omega \]
 
 In progress...
